@@ -1,0 +1,16 @@
+* Heading 1
+
+This is a sample org file.
+
+** It has multiple headings.
+
+And another thing.
+
+* And this is an example of one of them.
+
+** And here again
+
+*** And one more with 3 indentations.
+
+function test() {
+}
